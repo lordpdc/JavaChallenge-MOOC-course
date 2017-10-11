@@ -10,7 +10,7 @@
 El presente repositorio esta destinado para los ejercicios que estaran siendo utilizados por el proyecto  TMC-FMAT (_nombre provisional_)
 actualmente cuenta con una estructura simple se espera mejorarla para hacerla mas intuitiva
 
-##Java##
+## Java ##
 
 ### Estructura
 
@@ -24,10 +24,10 @@ se puede ver el avanze en el siguiente [Documento](https://docs.google.com/sprea
 
 
 
-##C##
+## C ##
 
 **en pausa**
 
-##Python##
+## Python ##
 
-** Pendiente**
+**Pendiente**
