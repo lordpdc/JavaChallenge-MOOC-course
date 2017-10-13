@@ -1,11 +1,12 @@
 public class Variables {
 
     public static void main(String[] args) {
+        //Please printf 9000 chicken, 0.1 bacon and tractor Zetor
         // CHANGE THESE:
 
-        int chickenCount = 9000;
-        double baconWeight = 0.1;
-        String tractor = "Zetor";
+        int chickenCount = 0;
+        double baconWeight = 0;
+        String tractor = null;
 
         // DO NOT TOUCH THE BELOW:
 

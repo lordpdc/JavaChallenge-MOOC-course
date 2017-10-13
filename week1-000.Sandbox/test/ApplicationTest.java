@@ -3,7 +3,7 @@ import org.junit.Test;
 
 public class ApplicationTest {
 @Test
-    public void hiekkalaatikkoVihreakti() {
+    public void sandboxTest() {
         assertTrue(true);
     }
 }
