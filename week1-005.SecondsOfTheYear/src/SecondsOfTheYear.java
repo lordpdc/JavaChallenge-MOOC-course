@@ -2,7 +2,7 @@ public class SecondsOfTheYear {
 
     public static void main(String[] args) {   
         // In below an incomplete version of the program. Please complete it!
-        // for calculated how many second have one year
+        // for calculated and print how many second have one year
         
         int daysInYear = 0;
         int hoursInDay = 0;
@@ -11,7 +11,7 @@ public class SecondsOfTheYear {
         
         int secondsInYear = 0;
 
-        System.out.println("There are " + secondsInYear + " seconds in a year");
+        
     }
 
 }
