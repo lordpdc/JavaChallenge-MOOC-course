@@ -7,6 +7,7 @@ public class EvenOrOdd {
         Scanner reader = new Scanner(System.in);
 
         // Type your program here
+        //Request a number, decide if is even or odd
         
     }
 }

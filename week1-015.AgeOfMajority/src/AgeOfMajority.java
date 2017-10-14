@@ -6,7 +6,8 @@ public class AgeOfMajority {
     public static void main(String[] args) {
         Scanner reader = new Scanner(System.in);
 
-        // Type your program here
+        //Request age and decide if have a majority 
+        //Type your program here
        
     }
 }
