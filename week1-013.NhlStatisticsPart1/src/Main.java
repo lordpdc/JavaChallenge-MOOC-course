@@ -4,6 +4,9 @@ import nhlstats.NHLStatistics;
 public class Main {
 
     public static void main(String[] args) {
+        /* with NHLStatistics show top 10
+        
+        */
         NHLStatistics.sortByGoals();
         NHLStatistics.top(10);
 
